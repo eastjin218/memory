@@ -1,0 +1,6 @@
+camera_config: ./nerf/cam_config_train.json
+filter: m1a2
+res: 1280x720
+savedir: ./test_tank_img
+type: train
+copy_transforms : ./nerf
